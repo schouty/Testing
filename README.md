@@ -7,4 +7,4 @@ Testing
 
 This is done on 18th Jan
 
-This is added in Git demo OF 18th JanP
+This is added in Git demo on and off 18th JanP
